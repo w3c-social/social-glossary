@@ -2,4 +2,6 @@
 
 **An unofficial draft**
 
-Please use issue tracker to give feedback, pull requests also welcomed!
+Preview: http://w3c-social.github.io/social-glossary/
+
+Please edit **index.html**
